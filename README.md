@@ -22,8 +22,6 @@
 - 💻 .NET Backend Developer focused on building clean and scalable backend systems.
 - ⚙️ Working mainly with **C#, ASP.NET Core Web API, Entity Framework Core, LINQ, and SQL Server**.
 - 🧠 Active **Competitive Programmer** on Codeforces.
-- 🏆 ICPC contestant with a strong interest in algorithms and data structures.
-- 🐧 Comfortable working with **Linux / Linux Mint**.
 - 🔧 Currently improving my backend engineering skills while pushing my competitive programming level.
 - 🚀 My goal is to become a strong **Backend Engineer + Competitive Programmer**.
 
