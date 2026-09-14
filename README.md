@@ -75,10 +75,10 @@ I actively practice **Data Structures, Algorithms, Problem Solving, and Competit
 
 ### Codeforces
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+<a href="https://codeforces.com/profile/">
 
 <img
-  src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE"
+  src="https://codeforces-readme-stats.vercel.app/api/card?username=Omar_Matar"
   alt="Codeforces Stats"
 />
 
@@ -86,10 +86,10 @@ I actively practice **Data Structures, Algorithms, Problem Solving, and Competit
 
 <br/>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+<a href="https://codeforces.com/profile/Omar_Matar">
 
 <img
-  src="https://codeforces-readme-stats.vercel.app/api/badge?username=YOUR_CODEFORCES_HANDLE"
+  src="https://codeforces-readme-stats.vercel.app/api/badge?username=Omar_Matar"
   alt="Codeforces Rating"
 />
 
