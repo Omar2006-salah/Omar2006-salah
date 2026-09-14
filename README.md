@@ -94,22 +94,3 @@ I actively practice **Data Structures, Algorithms, Problem Solving, and Competit
 </a>
 
 </div>
-
-### 🏆 Competitive Programming Focus
-
-```text
-Algorithms
-├── Graphs
-├── Dynamic Programming
-├── Greedy
-├── Binary Search
-├── Number Theory
-├── String Algorithms
-└── Data Structures
-
-Advanced Data Structures
-├── Trie
-├── Merge Sort Tree
-├── Persistent Segment Tree
-├── Small-to-Large
-└── Heavy-Light Decomposition
