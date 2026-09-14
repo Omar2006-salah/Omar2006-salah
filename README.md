@@ -8,10 +8,6 @@
 
 ### Computer Science Student • .NET Backend Developer • Competitive Programmer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Omar2006-salah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
